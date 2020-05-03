@@ -1,2 +1,6 @@
 # Corona-Virus-Tracker
-This Single Page Web Application is built using Spring Boot as Back-end and Thymeleaf as Templating Engine along with BootStrap for Front-end.
+Single Page Web App Built as starter project in Spring Boot...
+<br />
+The Data is taken from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+<br />
+Thymeleaf is used for server side templating along with Bootstrap for frontend.
